@@ -1,4 +1,4 @@
-package com.example.enobyte.uasmainurrahman;
+package com.example.rizalriadus.uasrizalriadusurur;
 
 import android.Manifest;
 import android.content.Context;
@@ -19,9 +19,9 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.enobyte.uasmainurrahman.adapter.ListSMSRecieveAdapter;
-import com.example.enobyte.uasmainurrahman.database.TableSmsAdapter;
-import com.example.enobyte.uasmainurrahman.database.Tablesms;
+import com.example.rizalriadus.uasrizalriadusurur.adapter.ListSMSRecieveAdapter;
+import com.example.rizalriadus.uasrizalriadusurur.database.TableSmsAdapter;
+import com.example.rizalriadus.uasrizalriadusurur.database.Tablesms;
 
 import java.util.ArrayList;
 import java.util.HashMap;

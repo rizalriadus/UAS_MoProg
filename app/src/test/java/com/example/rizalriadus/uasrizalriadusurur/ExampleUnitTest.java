@@ -1,4 +1,4 @@
-package com.example.enobyte.uasmainurrahman;
+package com.example.rizalriadus.uasrizalriadusurur;
 
 import org.junit.Test;
 

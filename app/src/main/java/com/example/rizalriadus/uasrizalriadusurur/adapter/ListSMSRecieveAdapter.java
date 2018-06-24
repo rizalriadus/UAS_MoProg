@@ -1,4 +1,4 @@
-package com.example.enobyte.uasmainurrahman.adapter;
+package com.example.rizalriadus.uasrizalriadusurur.adapter;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,9 +9,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.enobyte.uasmainurrahman.DetailReadSMS;
-import com.example.enobyte.uasmainurrahman.R;
-import com.example.enobyte.uasmainurrahman.database.Tablesms;
+import com.example.rizalriadus.uasrizalriadusurur.DetailReadSMS;
+import com.example.rizalriadus.uasrizalriadusurur.R;
+import com.example.rizalriadus.uasrizalriadusurur.database.Tablesms;
 
 import java.util.List;
 
